@@ -21,6 +21,9 @@ docker build -t php7apache .
 docker run -d -v .:/var/www/html -p 8080:80 --name mywebserver php7apache
 ```
 
+**Step 3** (Access the container webroot)
+Go to the url [http://localhost:8080](http://localhost:8080)
+
 The files from you current directory you are executing the above command will be in the root of `/var/www/html`.
 
 
