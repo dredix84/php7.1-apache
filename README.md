@@ -29,4 +29,4 @@ The files from you current directory you are executing the above command will be
 
 Author
 ----
-[https://github.com/dredix84](Andre Dixon)
+Andre Dixon
