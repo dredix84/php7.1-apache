@@ -10,7 +10,7 @@ ___
 - zip
 - calendar
 
-## Runnning this image
+## Runnning this container
 
 **Step 1** (build docker image)
 ```bash
